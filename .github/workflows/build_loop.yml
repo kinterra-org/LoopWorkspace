@@ -285,7 +285,8 @@ jobs:
           high_carb_limit \
           now_line \
           meal_week \
-          profiles
+          profiles \
+          negative-insulin
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
